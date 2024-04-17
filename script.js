@@ -61,7 +61,7 @@ setInterval(() => {
     hora atual() ; 
 }, 1000);
 
-function contador()}
+function contador(){
     let início = document . getElementByld("inicio") . value;
     let fim = document . getElementByld("fim") . value;
     if(inicio != fim){
